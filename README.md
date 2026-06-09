@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **gousejani/gousejani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,7 +18,7 @@ Here are some ideas to get you started:
 I'm someone who enjoys building things with code and constantly improving along the way.
 
 - 💻 Currently working on: leveling up my dev skills, system design, adapting AI
-- 🚀 Interested in: cool tech, real-world projects, problem solving and AI AI AI
+- 🚀 Interested in: cool tech, real-world projects, problem solving and AI
 - 🧠 Always learning: something new every day
 
 ## 🛠 Tech Stack
